@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* сторінка підприємства */
+.main-page {
+    background-color: #f2f2f2;
+}
+
+/* сторінка автора */
+.author-page {
+    background-color: #e6f0ff;
+}
+
+/* таблиця */
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+/* зображення */
+.parking-image {
+    width: 300px;
+}
+
+.parking-icon {
+    width: 200px;
+}
+
+/* завершуючий відступ */
+.footer-spacing {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
