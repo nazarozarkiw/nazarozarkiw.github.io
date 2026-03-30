@@ -1,0 +1,25 @@
+.site-nav {
+    background-color: #f5f7fa; /* світло-сірий */
+    list-style: none;
+    padding: 0;
+    width: 200px;
+    border: 1px solid #d0d7de;
+}
+
+.site-nav .site-nav-item {
+    border-bottom: 1px solid #e0e0e0;
+    padding: 5px;
+}
+
+.site-nav .site-nav-item:last-child {
+    border-bottom: 0;
+}
+
+.site-nav .site-nav-item a {
+    color: #2c3e50; /* темно-сірий текст */
+    text-decoration: none;
+}
+
+.site-nav .site-nav-item a:hover {
+    color: #1a73e8; /* приємний синій */
+}
